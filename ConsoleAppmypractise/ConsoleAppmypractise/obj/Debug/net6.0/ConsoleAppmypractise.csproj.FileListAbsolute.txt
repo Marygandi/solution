@@ -1,0 +1,14 @@
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\bin\Debug\net6.0\ConsoleAppmypractise.exe
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\bin\Debug\net6.0\ConsoleAppmypractise.deps.json
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\bin\Debug\net6.0\ConsoleAppmypractise.runtimeconfig.json
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\bin\Debug\net6.0\ConsoleAppmypractise.dll
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\bin\Debug\net6.0\ConsoleAppmypractise.pdb
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.AssemblyInfoInputs.cache
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.AssemblyInfo.cs
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.csproj.CoreCompileInputs.cache
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.dll
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\refint\ConsoleAppmypractise.dll
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.pdb
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ConsoleAppmypractise.genruntimeconfig.cache
+C:\Users\G Mary\source\repos\ConsoleAppmypractise\ConsoleAppmypractise\obj\Debug\net6.0\ref\ConsoleAppmypractise.dll
